@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: package.xml 1834 2012-02-02 15:28:16Z TobiasH87 $ -->
+<package name="de.community4wcf.language">
+	<packageinformation>
+		<packagename><![CDATA[[C4W] Language for C4W]]></packagename>
+		<packagename language="de"><![CDATA[[C4W] Sprachen für C4W]]></packagename>
+		<packagename language="de-informal"><![CDATA[[C4W] Sprachen für C4W]]></packagename>
+		<packagedescription><![CDATA[This Plugin install Language for C4W]]></packagedescription>
+		<packagedescription language="de"><![CDATA[Dieses Plugin installiert Sprachen für C4W.]]></packagedescription>
+		<packagedescription language="de-informal"><![CDATA[Dieses Plugin installiert Sprachen für C4W.]]></packagedescription>
+		<version>2.1.0</version>
+		<packageurl><![CDATA[http://community4wcf.de]]></packageurl>
+		<date>2012-02-02</date>
+		<isunique>1</isunique>
+		<standalone>0</standalone>
+		<plugin>com.woltlab.wcf</plugin>
+	</packageinformation>
+	<licenseinformation>
+		<license><![CDATA[Exclusive]]></license>
+		<licenseURL><![CDATA[]]></licenseURL>
+	</licenseinformation>
+	<authorinformation>
+		<author><![CDATA[TobiasH]]></author>
+		<authorURL><![CDATA[https://www.woltlab.com/forum/index.php?page=User&userID=1331470]]></authorURL>
+	</authorinformation>
+	<requiredpackages>
+		<requiredpackage minversion="1.1.8">com.woltlab.wcf</requiredpackage>
+	</requiredpackages>
+	<excludedpackages>
+		<excludedpackage>com.c4w.language</excludedpackage>
+	</excludedpackages>
+	<!-- 
+	<optionalpackages>
+		<optionalpackage minversion="1.0.0 Beta 1" file="optional/net.deixu.wbb.thread.prefix.tar">net.deixu.wbb.thread.prefix</optionalpackage>
+	</optionalpackages>
+	-->
+	<instructions type="install">
+		<languages languagecode="de">de.xml</languages>
+	 	<languages languagecode="de-informal">de-informal.xml</languages>
+		<languages languagecode="en">en.xml</languages>
+	</instructions>
+	<instructions type="update" fromversion="2.*">
+		<languages languagecode="de">de.xml</languages>
+		<languages languagecode="de-informal">de-informal.xml</languages>
+		<languages languagecode="en">en.xml</languages>
+	</instructions>
+</package>

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: de-informal.xml 1839 2012-02-03 00:20:33Z TobiasH87 $ -->
+<language languagecode="de-informal">
+	<!-- Page Language -->
+	<category name="c4w.page">
+	    <item name="c4w.page.title"><![CDATA[Community4WCF (C4W)]]></item>
+		<item name="c4w.page.description"><![CDATA[Die Community rund um das "WoltLab® Community Framework™" (WCF), dessen Endanwendungen (z.B. WBB), Plugins und Support!]]></item>
+	</category>
+
+	<!-- Forum Language -->
+	<category name="c4w.forum">
+		<!-- Allgemein -->
+		<item name="c4w.forum.general"><![CDATA[Allgemein]]></item>
+		<item name="c4w.forum.general.description"><![CDATA[Nachrichten und Informationen, sowie Feedbackbereich]]></item>
+		<item name="c4w.forum.general.news"><![CDATA[Nachrichten und Informationen]]></item>
+		<item name="c4w.forum.general.news.description"><![CDATA[von Community4WCF]]></item>
+		<item name="c4w.forum.general.rssnews"><![CDATA[Nachrichten]]></item>
+		<item name="c4w.forum.general.rssnews.description"><![CDATA[Nachrichten aus der WoltLab-Szene]]></item>
+		<item name="c4w.forum.general.rssnews.archive"><![CDATA[Nachrichten - Archiv]]></item>
+		<item name="c4w.forum.general.rssnews.archive.description"><![CDATA[]]></item>
+		<item name="c4w.forum.general.feedback"><![CDATA[Feedback]]></item>
+		<item name="c4w.forum.general.feedback.description"><![CDATA[Feedback an Community4WCF]]></item>
+		<!-- Support -->
+		<item name="c4w.forum.support"><![CDATA[Support]]></item>
+		<item name="c4w.forum.support.description"><![CDATA[Supportbereich: WCF, Endanwendungen und Plugins]]></item>
+		<item name="c4w.forum.support.general"><![CDATA[WCF und Endanwendungen]]></item>
+		<item name="c4w.forum.support.general.description"><![CDATA[Support / Allgemeine Fragen zum WoltLab® Community Framework™ (<a href="https://www.woltlab.com/de/wcf/">WCF</a>) und Endanwendungen]]></item>
+		<item name="c4w.forum.support.plugins"><![CDATA[Plugins]]></item>
+		<item name="c4w.forum.support.plugins.description"><![CDATA[Support zur Plugins, z.B. aus dem <a href="https://www.woltlab.com/de/pluginstore/">WoltLab Plugin-Store</a>]]></item>
+		<item name="c4w.forum.tutorial"><![CDATA[Tutorials]]></item>
+		<item name="c4w.forum.tutorial.description"><![CDATA[Tutorialbereich]]></item>
+		<item name="c4w.forum.development_design"><![CDATA[Entwicklung und Design]]></item>
+		<item name="c4w.forum.development_design.description"><![CDATA[Allgemeines / Fragen zum Thema Entwicklung und Design]]></item>
+		<item name="c4w.forum.support.ircnetwork"><![CDATA[IRC- Netzwerk]]></item>
+		<item name="c4w.forum.support.ircnetwork.description"><![CDATA[<a href="http://irc.european-network.eu/">European-Network IRC</a> und <a href="/filebase/index.php?page=Category&categoryID=23">IRC User Online Client</a>]]></item>
+		<item name="c4w.forum.support.tobias"><![CDATA[Tobias]]></item>
+		<item name="c4w.forum.support.tobias.description"><![CDATA[<a href="/forum/index.php?page=User&userID=1">Tobias</a> Supportbereich]]></item>
+		<item name="c4w.forum.support.marco"><![CDATA[MaDa-Network]]></item>
+		<item name="c4w.forum.support.marco.description"><![CDATA[<a href="/forum/index.php?page=User&userID=198">MaDa-Network</a> Supportbereich]]></item>
+		<item name="c4w.forum.support.other"><![CDATA[sonstige Erweiterungen]]></item>
+		<item name="c4w.forum.support.other.description"><![CDATA[]]></item>
+		<!-- Off-Topic & Archiv -->
+		<item name="c4w.forum.offtopicarchive"><![CDATA[Off-Topic und Archiv]]></item>
+		<item name="c4w.forum.offtopicarchive.description"><![CDATA[Off-Topic, Hosting und Archiv]]></item>
+		<item name="c4w.forum.offtopic"><![CDATA[Off-Topic]]></item>
+		<item name="c4w.forum.offtopic.description"><![CDATA[Diskussionsbereich für alles Mögliche]]></item>
+		<item name="c4w.forum.hosting"><![CDATA[Hosting (Webspace/Server)]]></item>
+		<item name="c4w.forum.hosting.description"><![CDATA[Allgemeines zum Thema Hosting, Anbieter uvm.]]></item>
+		<item name="c4w.forum.market"><![CDATA[Börse]]></item>
+		<item name="c4w.forum.market.description"><![CDATA[Job- und Lizenzbörse]]></item>
+		<item name="c4w.forum.members"><![CDATA[Mitglieder]]></item>
+		<item name="c4w.forum.members.description"><![CDATA[Mitglieder stellen sich der Community vor]]></item>
+		<item name="c4w.forum.advertising"><![CDATA[Forenvorstellungen]]></item>
+		<item name="c4w.forum.advertising.description"><![CDATA[Stellt eure Foren/Webseiten vor und Diskutiert darüber]]></item>
+		<item name="c4w.forum.partners"><![CDATA[Partner]]></item>
+		<item name="c4w.forum.partners.description"><![CDATA[für Partneranfragen; Aufnahme in BN.- Gruppe folgt]]></item>
+		<item name="c4w.forum.archive"><![CDATA[Archiv]]></item>
+		<item name="c4w.forum.archive.description"><![CDATA[]]></item>
+		<!-- Team -->
+		<item name="c4w.forum.team"><![CDATA[Team]]></item>
+		<item name="c4w.forum.team.description"><![CDATA[Interner Bereich für das <a href="index.php?page=Team">Team</a>!]]></item>
+		<item name="c4w.forum.team.news"><![CDATA[Team News]]></item>
+		<item name="c4w.forum.team.news.description"><![CDATA[Informationen über Änderungen uvm.]]></item>
+		<item name="c4w.forum.team.discussions"><![CDATA[Diskussionen]]></item>
+		<item name="c4w.forum.team.discussions.description"><![CDATA[Diskussionen / Internes]]></item>
+		<item name="c4w.forum.team.archive"><![CDATA[T-Archiv]]></item>
+		<item name="c4w.forum.team.archive.description"><![CDATA[Archiv des Teams]]></item>
+	</category>
+
+	<!-- Hyperlink Language -->
+	<category name="c4w.link">
+		<!-- Forum Hyperlink -->
+		<item name="c4w.link.demo.wbblite"><![CDATA[Demoforum: "WBB Lite 2"]]></item>
+		<item name="c4w.link.demo.wbblite.description"><![CDATA[]]></item>
+		<item name="c4w.link.demo.system"><![CDATA[Testumgebung]]></item>
+		<item name="c4w.link.demo.system.description"><![CDATA[Testumgebung von Community4WCF]]></item>
+	</category>
+
+	<!-- Prefix Language -->
+	<category name="wbb.thread.prefix"> <!-- should be renamed to: c4w.prefix -->
+		<!-- Dev -->
+		<item name="wbb.thread.prefix.development.wcf"><![CDATA[[WCF]]]></item>
+		<item name="wbb.thread.prefix.development.php"><![CDATA[[PHP]]]></item>
+		<item name="wbb.thread.prefix.development.xhtml"><![CDATA[[HTML/XHTML]]]></item>
+		<item name="wbb.thread.prefix.development.xml"><![CDATA[[XML]]]></item>
+		<item name="wbb.thread.prefix.development.template"><![CDATA[[Template]]]></item>
+		<item name="wbb.thread.prefix.development.css"><![CDATA[[CSS]]]></item>
+		<item name="wbb.thread.prefix.development.mysql"><![CDATA[[MySQL]]]></item>
+		<item name="wbb.thread.prefix.development.style"><![CDATA[[Stile]]]></item>
+		<item name="wbb.thread.prefix.development.other"><![CDATA[[sonstiges]]]></item>
+		<!-- Dev Support -->
+		<item name="wbb.thread.prefix.usererror"><![CDATA[[Anwender-Fehler]]]></item>
+		<item name="wbb.thread.prefix.approved"><![CDATA[[Bestätigt]]]></item>
+		<item name="wbb.thread.prefix.solved"><![CDATA[[Behoben]]]></item>
+		<item name="wbb.thread.prefix.browsererror"><![CDATA[[Browser-Fehler]]]></item>
+		<item name="wbb.thread.prefix.alreadyproposed"><![CDATA[[bereits vorgeschlagen]]]></item>
+		<item name="wbb.thread.prefix.alreadyimplemented"><![CDATA[[bereits umgesetzt]]]></item>
+        <item name="wbb.thread.prefix.bogus"><![CDATA[[Bogus]]]></item>
+		<item name="wbb.thread.prefix.changelog"><![CDATA[[Changelog]]]></item>
+		<item name="wbb.thread.prefix.duplicate"><![CDATA[[Duplikat]]]></item>
+		<item name="wbb.thread.prefix.finished"><![CDATA[[Erledigt]]]></item>
+		<item name="wbb.thread.prefix.error"><![CDATA[[Fehler]]]></item>
+		<item name="wbb.thread.prefix.worksasintended"><![CDATA[[Funktioniert wie gewollt]]]></item>
+		<item name="wbb.thread.prefix.planned"><![CDATA[[geplant]]]></item>
+		<item name="wbb.thread.prefix.closednoanswer"><![CDATA[[Geschlossen (keine Antwort)]]]></item>
+		<item name="wbb.thread.prefix.noerror"><![CDATA[[Ist kein Fehler]]]></item>
+		<item name="wbb.thread.prefix.shorttermplanning"><![CDATA[[kurzfristig geplant]]]></item>
+		<item name="wbb.thread.prefix.longtermplanning"><![CDATA[[langfristig geplant]]]></item>
+		<item name="wbb.thread.prefix.mediumtermplanning"><![CDATA[[mittelfristig geplant]]]></item>
+		<item name="wbb.thread.prefix.notreproducible"><![CDATA[[Nicht reproduzierbar]]]></item>
+		<item name="wbb.thread.prefix.unworkable"><![CDATA[[Nicht umsetzbar]]]></item>
+		<item name="wbb.thread.prefix.systemerror"><![CDATA[[System-Fehler]]]></item>
+		<item name="wbb.thread.prefix.languagefiles"><![CDATA[[Sprachfiles]]]></item>
+		<item name="wbb.thread.prefix.todo"><![CDATA[[ToDo]]]></item>
+		<item name="wbb.thread.prefix.unconfirmed"><![CDATA[[unbestätigt]]]></item>
+		<item name="wbb.thread.prefix.resolvedunfavorably"><![CDATA[[ungünstig gelöst]]]></item>
+		<item name="wbb.thread.prefix.suggestion"><![CDATA[[Vorschlag]]]></item>
+		<item name="wbb.thread.prefix.wish"><![CDATA[[Wunsch]]]></item>
+		<item name="wbb.thread.prefix.isnotimplemented"><![CDATA[[wird nicht umgesetzt]]]></item>
+		<item name="wbb.thread.prefix.isnotresolved"><![CDATA[[wird nicht behoben]]]></item>
+		<item name="wbb.thread.prefix.waitingforfeedback"><![CDATA[[Warte auf Feedback]]]></item>
+		<!-- other -->
+		<item name="wbb.thread.prefix.placeholder"><![CDATA[[	]]]></item>
+		<item name="wbb.thread.prefix.general"><![CDATA[[Allgemein]]]></item>
+		<item name="wbb.thread.prefix.offered"><![CDATA[[Biete]]]></item>
+		<item name="wbb.thread.prefix.question"><![CDATA[[Frage]]]></item>
+		<item name="wbb.thread.prefix.help"><![CDATA[[Hilfe]]]></item>
+		<item name="wbb.thread.prefix.information"><![CDATA[[Information]]]></item>
+		<item name="wbb.thread.prefix.news"><![CDATA[[News]]]></item>
+		<item name="wbb.thread.prefix.offtopic"><![CDATA[[Off-Topic]]]></item>
+		<item name="wbb.thread.prefix.private"><![CDATA[[Privat]]]></item>
+		<item name="wbb.thread.prefix.support"><![CDATA[[Support]]]></item>
+		<item name="wbb.thread.prefix.search"><![CDATA[[Suche]]]></item>
+		<item name="wbb.thread.prefix.other"><![CDATA[[sonstiges]]]></item>
+		<item name="wbb.thread.prefix.tutorial"><![CDATA[[Tutorial]]]></item>
+		<item name="wbb.thread.prefix.test"><![CDATA[[Test]]]></item>
+		<item name="wbb.thread.prefix.welcome"><![CDATA[[Willkommen]]]></item>
+		<!-- Partners -->
+		<item name="wbb.thread.prefix.partners"><![CDATA[[Partner]]]></item>
+		<item name="wbb.thread.prefix.adopted"><![CDATA[[Angenommen]]]></item>
+		<item name="wbb.thread.prefix.rejected"><![CDATA[[Abgelehnt]]]></item>
+		<item name="wbb.thread.prefix.inprocess"><![CDATA[[In Bearbeitung]]]></item>
+		<item name="wbb.thread.prefix.postponed"><![CDATA[[Verschoben]]]></item>
+		<!-- Job und License Exchange -->
+		<item name="wbb.thread.prefix.job"><![CDATA[[Job]]]></item>
+		<item name="wbb.thread.prefix.job.search"><![CDATA[[Job-Suche]]]></item>
+		<item name="wbb.thread.prefix.job.offered"><![CDATA[[Job-Angebot]]]></item>
+		<item name="wbb.thread.prefix.job.finished"><![CDATA[[Job-Erledigt]]]></item>
+		<item name="wbb.thread.prefix.license"><![CDATA[[Lizenz]]]></item>
+		<item name="wbb.thread.prefix.license.search"><![CDATA[[Lizenz-Suche]]]></item>
+		<item name="wbb.thread.prefix.license.offered"><![CDATA[[Lizenz-Angebot]]]></item>
+		<item name="wbb.thread.prefix.license.finished"><![CDATA[[Lizenz-Erledigt]]]></item>
+		<!-- Standalone Applications - WCF, WBB Plugins -->
+		<item name="wbb.thread.prefix.wcf"><![CDATA[[WCF]]]></item>
+		<item name="wbb.thread.prefix.wbb"><![CDATA[[WBB]]]></item>
+		<item name="wbb.thread.prefix.wbblite"><![CDATA[[WBB Lite]]]></item>
+		<item name="wbb.thread.prefix.wbbwbblite"><![CDATA[[WBB + WBBLite]]]></item>
+		<item name="wbb.thread.prefix.wcp"><![CDATA[[WCP]]]></item>
+		<item name="wbb.thread.prefix.wcd"><![CDATA[[WCD]]]></item>
+		<item name="wbb.thread.prefix.wsif"><![CDATA[[WSIF]]]></item>
+		<item name="wbb.thread.prefix.wsip"><![CDATA[[WSIP]]]></item>
+		<item name="wbb.thread.prefix.wsis"><![CDATA[[WSIS]]]></item>
+		<item name="wbb.thread.prefix.wiki"><![CDATA[[Wiki]]]></item>
+		<item name="wbb.thread.prefix.bl"><![CDATA[[BL]]]></item>
+		<item name="wbb.thread.prefix.gms"><![CDATA[[GMS]]]></item>
+		<item name="wbb.thread.prefix.gwsp"><![CDATA[[GWSP]]]></item>
+		<item name="wbb.thread.prefix.icms"><![CDATA[[ICMS]]]></item>
+		<item name="wbb.thread.prefix.cp"><![CDATA[[WebCP]]]></item>
+	</category>
+	
+	<!-- Group Language -->
+	<category name="c4w.group">
+		<item name="c4w.group.everyone"><![CDATA[Jeder]]></item>
+		<item name="c4w.group.everyone.description"><![CDATA[]]></item>
+		<item name="c4w.group.guests"><![CDATA[Gäste]]></item>
+		<item name="c4w.group.guests.description"><![CDATA[]]></item>
+		<item name="c4w.group.users"><![CDATA[Registrierte Benutzer]]></item>
+		<item name="c4w.group.users.description"><![CDATA[]]></item>
+		<item name="c4w.group.administrators"><![CDATA[Administratoren]]></item>
+		<item name="c4w.group.administrators.description"><![CDATA[]]></item>
+		<item name="c4w.group.moderators"><![CDATA[Moderatoren]]></item>
+		<item name="c4w.group.moderators.description"><![CDATA[]]></item>
+		<item name="c4w.group.supermoderators"><![CDATA[Super Moderatoren]]></item>
+		<item name="c4w.group.supermoderators.description"><![CDATA[]]></item>
+		<item name="c4w.group.coadmins"><![CDATA[Co Administrator]]></item>
+		<item name="c4w.group.coadmins.description"><![CDATA["2ter Administrator"]]></item>
+		<item name="c4w.group.vip"><![CDATA[VIP]]></item>
+		<item name="c4w.group.vip.description"><![CDATA[]]></item>
+		<item name="c4w.group.woltlab"><![CDATA[WSF und WCOM - Team]]></item>
+		<item name="c4w.group.woltlab.description"><![CDATA[Team der WCOM und dem WSF.]]></item>
+		<item name="c4w.group.developers"><![CDATA[Entwickler]]></item>
+		<item name="c4w.group.developers.description"><![CDATA[Die Gruppe für Entwickler von Plugins und EAs.]]></item>
+		<item name="c4w.group.design"><![CDATA[Designer]]></item>
+		<item name="c4w.group.design.description"><![CDATA[Gruppe für Stile, Avataren, Icons, Smilies]]></item>
+		<item name="c4w.group.testgroup"><![CDATA[Testgruppe]]></item>
+		<item name="c4w.group.testgroup.description"><![CDATA[Testgruppe fürs Forum!]]></item>
+		<item name="c4w.group.betatesters"><![CDATA[Betatester]]></item>
+		<item name="c4w.group.betatesters.description"><![CDATA[Gruppe zum Testen von Plugins, EAs und Stile. Über "aktuelle" Betatests wird im öffentlichen Forenbereich informiert.]]></item>
+		<item name="c4w.group.partners"><![CDATA[Partner]]></item>
+		<item name="c4w.group.partners.description"><![CDATA[Community4WCF-Partner]]></item>
+		<item name="c4w.group.ircmod"><![CDATA[IRC- Team (Chat)]]></item>
+		<item name="c4w.group.ircmod.description"><![CDATA[User dieser Gruppe haben Moderationsrechte (OP) im Irc- Channel (= Chat) von C4W!]]></item>
+		<item name="c4w.group.cancelmembership"><![CDATA[Mitgliedschaft Kündigen]]></item>
+		<item name="c4w.group.cancelmembership.description"><![CDATA[Für Mitglieder die sich Löschen lassen wollen.]]></item>
+		<item name="c4w.group.newsletter"><![CDATA[Newsletter]]></item>
+		<item name="c4w.group.newsletter.description"><![CDATA[Für aktuelle Infos!]]></item>
+	</category>
+</language>
